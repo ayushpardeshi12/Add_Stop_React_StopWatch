@@ -57,5 +57,3 @@ The main functionality of the application is implemented in the `WatchFunction.j
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Replace `<repository-url>` with the actual URL of your GitHub repository. You can also add screenshots or any additional sections as needed.
